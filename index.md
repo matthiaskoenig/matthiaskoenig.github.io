@@ -20,4 +20,5 @@ layout: default
 
 # Modelling projects
 [multiscale-galactose](https://github.com/matthiaskoenig/multiscale-galactose)  
-[glucose-model](https://github.com/matthiaskoenig/glucose-model)
+[glucose-model](https://github.com/matthiaskoenig/glucose-model)  
+[hepatonet](https://github.com/matthiaskoenig/hepatonet)
