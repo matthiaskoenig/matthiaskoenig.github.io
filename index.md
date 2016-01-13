@@ -18,7 +18,10 @@ layout: default
 [cy3sbml](https://github.com/matthiaskoenig/cy3sbml/)  
 [cy3fluxviz](https://github.com/matthiaskoenig/cy3fluxviz/)  
 
-# Modelling projects
+## Modelling projects
 [multiscale-galactose](https://github.com/matthiaskoenig/multiscale-galactose)  
 [glucose-model](https://github.com/matthiaskoenig/glucose-model)  
 [hepatonet](https://github.com/matthiaskoenig/hepatonet)
+
+# System setup
+[linux-setup](https://github.com/matthiaskoenig/linux-setup)
