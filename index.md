@@ -20,8 +20,8 @@ layout: default
 ## Modelling projects
 [multiscale-galactose](https://github.com/matthiaskoenig/multiscale-galactose)  
 [glucose-model](https://github.com/matthiaskoenig/glucose-model)  
-[hepatonet](https://github.com/matthiaskoenig/hepatonet)
-[pkpd](https://github.com/matthiaskoenig/pkpd)
+[hepatonet](https://github.com/matthiaskoenig/hepatonet)  
+[pkpd](https://github.com/matthiaskoenig/pkpd)  
 [caffeine](https://github.com/matthiaskoenig/caffeine)
 
 # System setup
