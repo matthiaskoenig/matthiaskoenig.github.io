@@ -24,5 +24,8 @@ layout: default
 [pkpd](https://github.com/matthiaskoenig/pkpd)  
 [caffeine](https://github.com/matthiaskoenig/caffeine)
 
+[wholecell-reduced](https://github.com/whole-cell-tutors/whole-cell-reduced)
+[wholecell-metabolism](https://github.com/dagwa/wholecell-metabolism)
+
 # System setup
 [linux-setup](https://github.com/matthiaskoenig/linux-setup)
