@@ -18,13 +18,14 @@ layout: default
 [tellurium](https://github.com/sys-bio/tellurium/)  
 
 ## Modelling projects
+### liver metabolism
 [multiscale-galactose](https://github.com/matthiaskoenig/multiscale-galactose)  
 [glucose-model](https://github.com/matthiaskoenig/glucose-model)  
 [hepatonet](https://github.com/matthiaskoenig/hepatonet)  
 [pkpd](https://github.com/matthiaskoenig/pkpd)  
 [caffeine](https://github.com/matthiaskoenig/caffeine)
-
-[wholecell-reduced](https://github.com/whole-cell-tutors/whole-cell-reduced)
+### wholecell
+[wholecell-reduced](https://github.com/whole-cell-tutors/whole-cell-reduced)  
 [wholecell-metabolism](https://github.com/dagwa/wholecell-metabolism)
 
 # System setup
