@@ -7,7 +7,7 @@ layout: default
 <a href="{{site.github.repository_url}}/edit/master/{{page.path}}"><span class="icon icon--github">{% include icon-github.svg %}</span>Edit this page</a></div>
 
 # Open source projects
-### Cytoscape
+### Cytoscape (visualization)
 [cy2sbml](https://github.com/matthiaskoenig/cy2sbml/)  
 [cy2fluxviz](https://github.com/matthiaskoenig/cy2fluxviz/)  
 [cy2sabiork](https://github.com/matthiaskoenig/cy2sabiork/)  
@@ -15,11 +15,12 @@ layout: default
 
 [cy3sbml](https://github.com/matthiaskoenig/cy3sbml/)  
 [cy3fluxviz](https://github.com/matthiaskoenig/cy3fluxviz/)  
-### Python
+### Python (Modelling & Model management)
 [roadrunner](https://github.com/sys-bio/roadrunner/)  
 [tellurium](https://github.com/sys-bio/tellurium/)  
 [pysbgn](https://github.com/matthiaskoenig/libsbgn-python)  
 [sbmlutils](https://github.com/matthiaskoenig/sbmlutils/)  
+[modelmanager](https://github.com/matthiaskoenig/modelmanager/)  
 
 ## Modelling projects
 ### liver metabolism
