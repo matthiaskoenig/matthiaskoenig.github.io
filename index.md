@@ -14,8 +14,9 @@ layout: default
 [cy2reposition](https://github.com/matthiaskoenig/cy2reposition/)  
 
 [cy3sbml](https://github.com/matthiaskoenig/cy3sbml/)  
-[cy3fluxviz](https://github.com/matthiaskoenig/cy3fluxviz/)  
 [cy3sabiork](https://github.com/matthiaskoenig/cy3sabiork/) 
+[cy3fluxviz](https://github.com/matthiaskoenig/cy3fluxviz/) 
+[cy-dataseries](https://github.com/martincerny/cy-dataseries) 
 
 ### Python (Modelling & Model management)
 [roadrunner](https://github.com/sys-bio/roadrunner/)  
