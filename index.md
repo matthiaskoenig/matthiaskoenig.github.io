@@ -22,6 +22,7 @@ layout: default
 ### Python (Modelling & Model management)
 [roadrunner](https://github.com/sys-bio/roadrunner/)  
 [tellurium](https://github.com/sys-bio/tellurium/)  
+[tellurium-web](https://github.com/matthiaskoenig/tellurium-web/)  
 [pysbgn](https://github.com/matthiaskoenig/libsbgn-python)  
 [sbmlutils](https://github.com/matthiaskoenig/sbmlutils/)  
 [modelmanager](https://github.com/matthiaskoenig/modelmanager/)  
