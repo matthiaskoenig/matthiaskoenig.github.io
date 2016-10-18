@@ -25,6 +25,7 @@ layout: default
 [tellurium-web](https://github.com/matthiaskoenig/tellurium-web/)  
 [pysbgn](https://github.com/matthiaskoenig/libsbgn-python)  
 [sbmlutils](https://github.com/matthiaskoenig/sbmlutils/)  
+[dfba](https://github.com/matthiaskoenig/dfba/)  
 [modelmanager](https://github.com/matthiaskoenig/modelmanager/)  
 
 ## Modelling
