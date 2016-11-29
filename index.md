@@ -38,6 +38,8 @@ layout: default
 [acetaminophen](https://github.com/matthiaskoenig/acetaminophen)  
 [caffeine](https://github.com/matthiaskoenig/caffeine)  
 [codeine](https://github.com/matthiaskoenig/codeine)  
+[metacethin](https://github.com/matthiaskoenig/metacethin)    
+
 
 ### wholecell
 [wholecell-reduced](https://github.com/whole-cell-tutors/whole-cell-reduced)  
