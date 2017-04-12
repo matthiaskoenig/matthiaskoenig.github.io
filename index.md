@@ -36,10 +36,11 @@ layout: default
 [pkpd](https://github.com/matthiaskoenig/pkpd)  
 
 [acetaminophen](https://github.com/matthiaskoenig/acetaminophen)  
+[antipyrine](https://github.com/matthiaskoenig/antipyrine)  
 [caffeine](https://github.com/matthiaskoenig/caffeine)  
 [codeine](https://github.com/matthiaskoenig/codeine)  
-[metacethin](https://github.com/matthiaskoenig/metacethin)    
-
+[metacethin](https://github.com/matthiaskoenig/metacethin)  
+[indocyanine green](https://github.com/matthiaskoenig/icg)
 
 ### wholecell
 [wholecell-reduced](https://github.com/whole-cell-tutors/whole-cell-reduced)  
