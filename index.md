@@ -6,6 +6,9 @@ layout: default
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=RYHNRJFBMWD5N" title="Donate to this project using Paypal"><img src="https://img.shields.io/badge/paypal-donate-yellow.svg" alt="PayPal donate button" /></a>
 <a href="{{site.github.repository_url}}/edit/master/{{page.path}}"><span class="icon icon--github">{% include icon-github.svg %}</span>Edit this page</a></div>
 
+## Standards
+[sed-ml](https://github.com/sed-ml/)
+
 ## Software & Libraries
 ### Cytoscape (visualization)
 [cy2sbml](https://github.com/matthiaskoenig/cy2sbml/)  
